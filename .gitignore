@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+fonts/*.ttf
+fonts/*.otf
+fonts/*.ttc
