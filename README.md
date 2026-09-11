@@ -30,6 +30,12 @@
 对 Claude Code 说「把这个文档套成公文格式」并给出文件路径，或输入 `/gongwen-format`。
 `.docx` 与 `.doc` 均支持（`.doc` 在 macOS 上会自动转换；其他系统请先在 Word/WPS 里另存为 `.docx`）。
 
+## 项目更新与AI实践
+
+微信搜索公众号 **「Pamela的AI笔记」** 或扫描下方二维码，获取项目更新、最新AI应用案例和实用教程。
+
+<img src="assets/pamela-ai-notes-wechat.png" alt="微信公众号「Pamela的AI笔记」二维码" width="800">
+
 ## 格式规格
 
 | 段落 | 字体 | 字号 |
